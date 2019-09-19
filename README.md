@@ -11,9 +11,11 @@ This project **also** implements a **character and camera controller**. Using a 
 
 ### How did I do this?
 1. Modeled a character and rigged it with IK.
+
 ![woah!!](https://github.com/wellwhy/pent-up/blob/master/1.png?raw=true)
 
 2. For walking and running, I keyframed a **pass and reach pose (4 poses in total)** and exported them with the model.
+
 ![woah!!!](https://github.com/wellwhy/pent-up/blob/master/2.gif?raw=true)
 
 3. Developed a script "serializePose" which applies these keyframes in-engine and **caputres their local positions and rotations in relation to each other (to a JSON) in this format:**
