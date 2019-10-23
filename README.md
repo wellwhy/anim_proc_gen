@@ -1,4 +1,4 @@
-# Keyframe Bicubic Interploation in Unity Engine 2018.4 (Procedural Animation)
+# Keyframe Bicubic Interpolation in Unity Engine 2018.4 (Procedural Animation)
 ![woah!](https://github.com/wellwhy/pent-up/blob/master/pntup.gif?raw=true)
 
 This project is aiming to emulate [Overgrowth's](https://www.youtube.com/watch?v=LNidsMesxSE) animation system. It has reached a functional stage and I will continue to enhance the system to be used for any of my future game projects. The idea is that with only a **minimal amount of keyframes, interpolation of these frames creates a visual result that is almost identical to hand-keyed animation.**
