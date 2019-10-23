@@ -57,7 +57,7 @@ This project **also** implements a **character and camera controller**. Using a 
 
 6. Each locomotion cycle will switch between pass and reach and then the mirrored pass and reach, **interpolating between the positions by a curve.** It also interpolates between walking and running by the velocity, and returns to a standing position when velocity is 0.
 
-### In short, by creating only 5 keyframes in blender:
+### In short, by creating only 5 keyframes in Blender:
 1. Walk Pass
 2. Walk Reach
 3. Run Pass
