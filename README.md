@@ -18,7 +18,7 @@ This project **also** implements a **character and camera controller**. Using a 
 
 ![woah!!!](https://github.com/wellwhy/pent-up/blob/master/2.gif?raw=true)
 
-3. Developed a script "serializePose" which applies these keyframes in-engine and **caputres their local positions and rotations in relation to each other (to a JSON) in this format:**
+3. Developed a script "serializePose" which applies these keyframes in-engine and **captures their local positions and rotations in relation to each other (to a JSON) in this format:**
 ````
 {
     "boneOffsets": [
